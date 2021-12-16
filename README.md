@@ -1,5 +1,6 @@
 # TowerTutorialBetter
-modified in dev on github
+implemented in feature branch
+
 
 
 
